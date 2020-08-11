@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Javascript.
-- 📫 How to reach me: www.591466539@qq.com
 
