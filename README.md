@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Javascript.
-
+- 🔭 I’m currently working on [Javascript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript).
+- 📫 How to reach me: mail me [591466539@qq.com](mailto:591466539@qq.com)
