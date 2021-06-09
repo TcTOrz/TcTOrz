@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋
 
 <!--
 **TcTOrz/TcTOrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 - 🔭 I’m currently working on [Javascript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript).
 - 📫 How to reach me: mail me [591466539@qq.com](mailto:591466539@qq.com)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=TcTOrz.TcTOrz)
+-->
